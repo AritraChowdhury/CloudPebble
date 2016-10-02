@@ -9,7 +9,14 @@
         "messageKeys": [],
         "projectType": "native",
         "resources": {
-            "media": []
+            "media": [
+                {
+                    "file": "images/action_icon_plus.png",
+                    "name": "IMAGE_ACTION_ICON_PLUS",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
         },
         "sdkVersion": "3",
         "uuid": "105d1189-b2d4-4a0a-bad3-4a5fd1e44eeb",
