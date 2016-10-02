@@ -1,0 +1,21 @@
+{
+    "author": "aritra15503@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "coinflip",
+    "pebble": {
+        "displayName": "coinflip",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "105d1189-b2d4-4a0a-bad3-4a5fd1e44eeb",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
